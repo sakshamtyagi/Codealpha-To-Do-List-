@@ -9,6 +9,9 @@ This repository contains the source code for the To-Do List web application deve
 - **User-Friendly Interface:** The application is designed with a clean and attractive interface, making it easy to navigate and use.
 - **Responsive Design:** The layout is responsive, ensuring a seamless experience across different devices and screen sizes.
 
+  <img width="956" alt="image" src="https://github.com/user-attachments/assets/d35f97b0-5e18-46a7-b315-39ea97a79e3c">
+
+
 ## **Technologies Used**
 - **HTML5:** For the structure and content of the web application.
 - **CSS3:** For styling and enhancing the visual appearance.
